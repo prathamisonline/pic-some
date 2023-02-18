@@ -11,6 +11,7 @@
 # production
 /build
 
+/Challanges
 # misc
 .DS_Store
 .env.local
